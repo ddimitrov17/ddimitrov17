@@ -26,7 +26,7 @@ Hi, I’m a Full Stack Web Developer student passionate about building web appli
 🔗 https://github.com/ddimitrov17/D-Social-Network  
 Built with:  
 <img align="left" alt="React" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-<img align="left" alt="Node.js" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
 <img align="left" alt="MongoDB" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" />  
 D-Social-Network is a web app where users can create and interact with posts. You can like, comment, edit, and delete posts, and even follow or unfollow other users to create your own personalized feed. There's also a live chat feature, so you can message other users in real time. It has secure login and registration, and you can customize your profile and manage your posts. The app is built with React, Node.js, and WebSockets for the live chat.
 
@@ -34,7 +34,7 @@ D-Social-Network is a web app where users can create and interact with posts. Yo
 🔗 https://github.com/ddimitrov17/AI-Trip-Assistant  
 Built with:  
 <img align="left" alt="React" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-<img align="left" alt="Node.js" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
 <img align="left" alt="PostgreSQL" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" />  
 AI Trip Assistant helps you plan your trips by suggesting destinations, places, and hotels based on your preferences. You can save your trips and easily manage your travel details. It uses JWT tokens and the app also provides real-time recommendations tailored just for you. It also provides an option to create an itinerary day by day for your planned trip. You can fill in your trip details step-by-step, making the whole process smooth and easy.
 
