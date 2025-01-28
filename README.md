@@ -7,6 +7,7 @@ Hi, I’m a Full Stack Web Developer student passionate about building web appli
 ## 🛠 Technologies & Tools
 
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 <img align="left" alt="Node.js" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
@@ -31,7 +32,7 @@ Built with:
 D-Social-Network is a web app where users can create and interact with posts. You can like, comment, edit, and delete posts, and even follow or unfollow other users to create your own personalized feed. There's also a live chat feature, so you can message other users in real time. It has secure login and registration, and you can customize your profile and manage your posts. The app is built with React, Node.js, and WebSockets for the live chat.
 
 ### 🧳 **[AI-Trip-Assistant](#)**  
-🔗 https://github.com/ddimitrov17/AI-Trip-Assistant  
+🔗 https://github.com/ddimitrov17/AI-Trip-Assistant
 Built with:  
 <img align="left" alt="React" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 <img align="left" alt="Express" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
