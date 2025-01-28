@@ -38,12 +38,8 @@ Built with:
 <img align="left" alt="PostgreSQL" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" />  
 AI Trip Assistant helps you plan your trips by suggesting destinations, places, and hotels based on your preferences. You can save your trips and easily manage your travel details. It uses JWT tokens and the app also provides real-time recommendations tailored just for you. It also provides an option to create an itinerary day by day for your planned trip. You can fill in your trip details step-by-step, making the whole process smooth and easy.
 
----
-
-## 🚧 Projects I'm Currently Working On
-🔗 https://github.com/ddimitrov17/D-Book-App
-
 ### 📖 **[D-Book-App](#)**  
+🔗 https://github.com/ddimitrov17/D-Book-App
 Built with:  
 <img align="left" alt="React" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" />
 <img align="left" alt="Express" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
